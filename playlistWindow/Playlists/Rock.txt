@@ -1,0 +1,11 @@
+Rock Songs
+Purple Haze; Jimi Hendrix; PurpleHaze.wav; https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD?si=9838c4d139734571
+Sympathy For The Devil; The Rolling Stones; SympathyForTheDevil.wav; https://open.spotify.com/track/75zMKn5euxQdlkZgu4P42J?si=51a29e8685974ea8
+Under Pressure; Queen, David Bowie; UnderPressure.wav; https://open.spotify.com/track/1mSClObliRtgPVT399COQH?si=f58dc478d84e46e6
+Iron Man; Black Sabbath; IronMan.wav; https://open.spotify.com/track/4svkPL62HbvyFgf0nHFXAF?si=e3b5a9d86d504a56
+Feel Good Inc.; Gorillaz; FeelGoodInc.wav; https://open.spotify.com/track/4svkPL62HbvyFgf0nHFXAF?si=b1eb497d623a4158
+Whole Lotta Love - 1990 Remaster; Led Zeppelin; WholeLottaLove.wav; https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8?si=18ec69e96fb145d7
+Baba O'Riley; The Who; BabaORiley.wav; https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD?si=0544840495c34b27
+In the End; Linkin Park; InTheEnd.wav; https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq?si=69cf552369744ce2
+Stairway to Heaven - Remaster; Led Zeppelin; StairwayToHeaven.wav; https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc?si=8cb69cd11e974bb4
+Hey Jude; The Beatles; HeyJude.wav; https://open.spotify.com/track/1eT2CjXwFXNx6oY5ydvzKU?si=63803c864fd545f4

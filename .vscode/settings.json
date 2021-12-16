@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "*.class": true
+    }
+
+}
