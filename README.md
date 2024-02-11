@@ -1,5 +1,7 @@
 **Welcome to the Groovie Project**
+
 ![Groovie Logo][GUIproject/Capture.PNG)
+
 ---
 
 ## Introduction
