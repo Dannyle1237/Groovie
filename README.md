@@ -6,7 +6,9 @@
 
 ## Introduction
 Welcome to the Groovie project repository! 
+
 Groovie is a Java-based application developed by our group at UTArlington's Object Oriented Programming class. 
+
 This project showcases our skills in software development, including the utilization of UML diagrams and Java Swing for the user interface.
 
 ---
@@ -16,6 +18,7 @@ Prerequisites
 To run Groovie, ensure you have the following installed on your system:
 
 Java Development Kit (JDK) version 8 or higher
+
 VS Code with Java libraries installed
 
 ---
