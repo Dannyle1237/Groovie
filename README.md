@@ -1,6 +1,6 @@
 **Welcome to the Groovie Project**
 
-![Groovie Logo][GUIproject/Capture.PNG)
+![Groovie Logo](GUIproject/Capture.PNG)
 
 ---
 
