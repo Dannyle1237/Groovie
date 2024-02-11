@@ -36,7 +36,9 @@ Run GroovieMain.java as a Java application.
 
 ## Usage
 1.)Starting up, the program will ask for your name.
+
 2.)Afterwards, it will load you into the application where you can create or play your playlists!
+
 3.)Enjoy your bops!
 
 ---
